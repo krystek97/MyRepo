@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;IssuesController.java&apos; to &apos;umowek/src/main/java/pl.iklikking.umowek.controllers&apos;&#x0D;&#x0A;- Original project: &apos;umowek&apos;&#x0D;&#x0A;- Destination element: &apos;umowek/src/main/java/pl.iklikking.umowek.controllers&apos;&#x0D;&#x0A;- Original element: &apos;pl.iklikking.umowek.controllers.IssuesController.java&apos;" description="Copy compilation unit" destination="/src\/main\/java&lt;pl.iklikking.umowek.controllers" element1="/src\/main\/java&lt;pl.iklikking.umowek.controllers{IssuesController.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1519647238574" units="1" version="1.0"/>
+</session>

@@ -1,0 +1,5 @@
+package pl.iklikking.umowek.controllers;
+
+public class IssuesController {
+
+}

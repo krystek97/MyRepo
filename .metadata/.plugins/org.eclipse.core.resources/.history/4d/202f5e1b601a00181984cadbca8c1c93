@@ -1,0 +1,10 @@
+package pl.iklikking.umowek.services;
+
+public class AppIssuesService implements IssuesService {
+
+	public String getIssue() {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

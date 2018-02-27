@@ -1,0 +1,16 @@
+package pl.iklikking.umowek.controllers;
+
+import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.ResponseBody;
+
+//Obs³uguje zg³oszenia do serwisu samochodowego
+@Controller
+public class IssuesController {
+
+	@RequestMapping("/**")
+	@ResponseBody //Nasza metoda zwraca bezpoœrednio treœæ odpowiedzi która ma zostaæ przekazana do przegl¹darki
+	public String test() {
+		return "Hello" ;
+	}
+}

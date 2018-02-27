@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\kryst\Desktop\MVC\Projekt Umowek\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+1190955057.index
+886184543.index
+1710833220.index
+3007696257.index
+3722951377.index
+3021934483.index
